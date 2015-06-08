@@ -1,6 +1,11 @@
 <?php
-$gaSql['user'] = "root";
-$gaSql['password'] = "root";
-$gaSql['db'] = "clinicas";
-$gaSql['server'] = "localhost";
+$user = "root";
+$password = "root";
+$db = "datatables";
+
+$user = "root";
+$password = "root";
+$db = "datatables";
+
+$server = "localhost";
 ?>
