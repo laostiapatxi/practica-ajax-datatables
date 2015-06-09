@@ -1,11 +1,6 @@
 <?php
-$user = "adrianzamora_roo";
-$password = "kpimkpam";
-$db = "adrianzamora_datatables";
-
-$user = "adrianzamora_roo";
-$password = "kpimkpam";
-$db = "adrianzamora_datatables";
-
-$server = "localhost";
+$gaSql['user'] = "adrianzamora_roo";
+$gaSql['password'] = "kpimkpam";
+$gaSql['db'] = "adrianzamora_datatables";
+$gaSql['server'] = "localhost";
 ?>

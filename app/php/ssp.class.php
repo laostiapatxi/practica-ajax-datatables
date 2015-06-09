@@ -376,7 +376,7 @@ class SSP {
 	{
 		try {
 			$db = @new PDO(
-				"mysql:host={$sql_details['host']};dbname={$sql_details['db']}",
+				"mysql:host={$sql_details['host']};dbname={$sql_details['db']};charset=utf8",
 				$sql_details['user'],
 				$sql_details['pass'],
 				/*juanda: lo añado para que devuelve bien el json, por tema de acentos, la conexión hay que hacerla con uft8*/
