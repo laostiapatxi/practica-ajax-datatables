@@ -89,7 +89,15 @@ body {
 }
 
 #nuevo_doctor{
-  float:right;
+  float:left;
+    margin-top:1%;
+
+}
+
+#github{
+  float:left;
+  margin-left: 5px;
+      margin-top:1%;
 }
 
 #form_nuevo_doctor {
